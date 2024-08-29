@@ -1,0 +1,188 @@
+# Translation of Plugins - Maintenance - Development (trunk) in French (France)
+# This file is distributed under the same license as the Plugins - Maintenance - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-02-21 15:44:02+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/4.0.1\n"
+"Language: fr\n"
+"Project-Id-Version: Plugins - Maintenance - Development (trunk)\n"
+
+#: includes/functions.php:121
+msgid "503"
+msgstr "503"
+
+#: includes/functions.php:121
+msgid "Service temporarily unavailable"
+msgstr "Service temporairement indisponible"
+
+#: includes/functions.php:137
+msgid "Font color"
+msgstr "Couleur de police"
+
+#: includes/functions.php:157
+msgid "Extended functionality"
+msgstr "Fonctionnalités avancés"
+
+#: includes/functions.php:123
+msgid "Apply a blur"
+msgstr "Appliquer un flou"
+
+#: includes/functions.php:162
+msgid "Demo website"
+msgstr "Site de démo"
+
+#: includes/functions.php:219
+msgid "Maintenace"
+msgstr "Maintenance"
+
+#: includes/functions.php:242
+msgid "Website is under construction"
+msgstr "Site en construction"
+
+#: includes/functions.php:243
+msgid "Maintenance mode is on"
+msgstr "Mode maintenance activé"
+
+#: lib/index.php:195 load/functions.php:217
+msgid "Sign In"
+msgstr "Se connecter"
+
+#: load/functions.php:216
+msgid "Password"
+msgstr "Mot de passe"
+
+#: load/functions.php:215
+msgid "Username"
+msgstr "Identifiant"
+
+#: page-options.php:54
+msgid "Premium version"
+msgstr "Version premium"
+
+#. Plugin Name of the plugin/theme
+msgid "Maintenance"
+msgstr "Maintenance"
+
+#. Plugin URI of the plugin/theme
+msgid "http://wordpress.org/plugins/maintenance/"
+msgstr "http://wordpress.org/plugins/maintenance/"
+
+#. Author URI of the plugin/theme
+msgid "http://fruitfulcode.com"
+msgstr "http://fruitfulcode.com"
+
+#. Author of the plugin/theme
+msgid "fruitfulcode"
+msgstr "fruitfulcode"
+
+#: includes/functions.php:122
+msgid "Blur intensity"
+msgstr "Intensité du flou"
+
+#: page-options.php:51 page-options.php:52
+msgid "Contact Support"
+msgstr "Contacter le support"
+
+#: includes/functions.php:244
+msgid "Website will be available soon"
+msgstr "Notre site sera bientôt en ligne"
+
+#: includes/functions.php:123
+msgid "Background blur"
+msgstr "Flou de l&rsquo;arrière plan"
+
+#: lib/index.php:94
+msgid "Your session has expired."
+msgstr "Votre session a expirée."
+
+#: page-options.php:55
+msgid "Check out our extended version of plugin with new features"
+msgstr "Jetez donc un œil sur notre version pro de notre extension, intégrant de nouvelles fonctionnalités"
+
+#: load/functions.php:52
+msgid "You entered your login and password are incorrect!"
+msgstr "Vous avez saisi un identifiant et un mot de passe erronés !"
+
+#: load/functions.php:49
+msgid "You entered your password are incorrect!"
+msgstr "Vous avez saisi un mot de passe incorrect !"
+
+#: load/functions.php:45
+msgid "You entered your login are incorrect!"
+msgstr "Vous avez saisi un identifiant incorrect !"
+
+#: load/functions.php:37
+msgid "Permission access denied!"
+msgstr "Droit d’accès refusé !"
+
+#: includes/functions.php:145
+msgid "Have any questions?"
+msgstr "Vous avez une question ?"
+
+#: includes/functions.php:136
+msgid "Background color"
+msgstr "Couleur de l’arrière-plan"
+
+#: includes/functions.php:130
+msgid "Upload Background"
+msgstr "Téléverser un arrière-plan"
+
+#: includes/functions.php:130
+msgid "Background image"
+msgstr "Image d’arrière-plan"
+
+#: includes/functions.php:120
+msgid "Admin bar"
+msgstr "Barre d’admin"
+
+#. Description of the plugin/theme
+msgid "Take your website for maintenance away from public view. Use maintenance plugin if your website is in development or you need to change a few things, run an upgrade. Make it only accessible by login and password. Plugin has a options to add a logo, background, headline, message, colors, login, etc. Extended PRO with more features version is available for purchase."
+msgstr "Rendre privé votre site au moment de faire une maintenance. Utilisez le mode maintenance si votre site est en développement, si vous devez y effectuer des modifications ou exécuter une mise à niveau. Accès par identifiant et mot de passe. Options supplémentaires pour ajouter un logo, un arrière-plan, un titre, un message et personnaliser les couleurs de l’écran de connexion. La version étendue Pro avec plus de fonctionnalités est disponible à l’achat."
+
+#: includes/functions.php:158
+msgid "Purchase <a href=\"http://codecanyon.net/item/maintenance-wordpress-plugin/2781350?ref=fruitfulcode\" target=\"_blank\">PRO</a> version  with extended functionality. %1$s If you like our plugin please <a target=\"_blank\" href=\"http://wordpress.org/support/view/plugin-reviews/maintenance?filter=5\">rate it</a>, <a title=\"leave feedbacks\" href=\"%2$s\" target=\"_blank\">leave feedbacks</a>."
+msgstr "Achetez la version <a href=\"http://codecanyon.net/item/maintenance-wordpress-plugin/2781350?ref=fruitfulcode\" target=\"_blank\">Pro</a> avec des fonctionnalités étendues. %1$s Si vous aimez notre extension veuillez <a target=\"_blank\" href=\"http://wordpress.org/support/view/plugin-reviews/maintenance?filter=5\">l’évaluer</a> et <a title=\"leave feedbacks\" href=\"%2$s\" target=\"_blank\">laisser des retours</a>."
+
+#: includes/functions.php:120
+msgid "Show admin bar"
+msgstr "Afficher la barre d’admin"
+
+#: includes/functions.php:105
+msgid "Pro version"
+msgstr "Version Pro"
+
+#: includes/functions.php:106
+msgid "Support"
+msgstr "Support"
+
+#: includes/functions.php:114
+msgid "Page title"
+msgstr "Titre de la page"
+
+#: includes/functions.php:116
+msgid "Description"
+msgstr "Description"
+
+#: includes/functions.php:117
+msgid "Logo"
+msgstr "Logo"
+
+#: includes/functions.php:104
+msgid "General Settings"
+msgstr "Réglages généraux"
+
+#: includes/admin.php:84 page-options.php:44
+msgid "Save changes"
+msgstr "Enregistrer les modifications"
+
+#: includes/functions.php:117
+msgid "Upload Logo"
+msgstr "Téléverser un logo"
+
+#: includes/functions.php:115
+msgid "Headline"
+msgstr "Titre"

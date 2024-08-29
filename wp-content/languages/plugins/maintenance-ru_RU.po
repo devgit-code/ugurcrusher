@@ -1,0 +1,192 @@
+# Translation of Plugins - Maintenance - Development (trunk) in Russian
+# This file is distributed under the same license as the Plugins - Maintenance - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-01-08 11:11:49+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/4.0.1\n"
+"Language: ru\n"
+"Project-Id-Version: Plugins - Maintenance - Development (trunk)\n"
+
+#. Author URI of the plugin/theme
+msgid "http://fruitfulcode.com"
+msgstr "http://fruitfulcode.com"
+
+#. Author of the plugin/theme
+msgid "fruitfulcode"
+msgstr "fruitfulcode"
+
+#. Description of the plugin/theme
+msgid "Take your website for maintenance away from public view. Use maintenance plugin if your website is in development or you need to change a few things, run an upgrade. Make it only accessible by login and password. Plugin has a options to add a logo, background, headline, message, colors, login, etc. Extended PRO with more features version is available for purchase."
+msgstr "Уберите ваш сайт из публичного просмотра для обслуживания. Используйте плагин если сайт в разработке, надо сменить пару вещей, запустить обновление. Сделайте его доступным только по логину и паролю. ПЛагин может добавить логотип, фон, заголовок, сообщение, цвета, логин итд. ПРО версия доступная для покупки имеет еще больше возможностей."
+
+#. Plugin URI of the plugin/theme
+msgid "http://wordpress.org/plugins/maintenance/"
+msgstr "http://wordpress.org/plugins/maintenance/"
+
+#. Plugin Name of the plugin/theme
+msgid "Maintenance"
+msgstr "Maintenance"
+
+#: page-options.php:55
+msgid "Check out our extended version of plugin with new features"
+msgstr "Узнайте возможности расширенной версии"
+
+#: page-options.php:54
+msgid "Premium version"
+msgstr "Premium версия"
+
+#: page-options.php:51 page-options.php:52
+msgid "Contact Support"
+msgstr "Контактная информация"
+
+#: load/functions.php:216
+msgid "Password"
+msgstr "Пароль"
+
+#: load/functions.php:215
+msgid "Username"
+msgstr "Имя пользователя"
+
+#: load/functions.php:52
+msgid "You entered your login and password are incorrect!"
+msgstr "Вы ввели некорректный логин и пароль!"
+
+#: load/functions.php:49
+msgid "You entered your password are incorrect!"
+msgstr "Вы ввели некорректный пароль!"
+
+#: load/functions.php:45
+msgid "You entered your login are incorrect!"
+msgstr "Вы ввели некорректный логин!"
+
+#: load/functions.php:37
+msgid "Permission access denied!"
+msgstr "Доступ запрещен!"
+
+#: lib/index.php:195 load/functions.php:217
+msgid "Sign In"
+msgstr "Войти"
+
+#: lib/index.php:94
+msgid "Your session has expired."
+msgstr "Время сеанса истекло."
+
+#: includes/functions.php:244
+msgid "Website will be available soon"
+msgstr "Сайт скоро будет доступен"
+
+#: includes/functions.php:243
+msgid "Maintenance mode is on"
+msgstr "Режим обслуживания активен"
+
+#: includes/functions.php:242
+msgid "Website is under construction"
+msgstr "Сайт находится на стадии разработки"
+
+#: includes/functions.php:219
+msgid "Maintenace"
+msgstr "Maintenace"
+
+#: includes/functions.php:162
+msgid "Demo website"
+msgstr "Демо-сайт"
+
+#: includes/functions.php:158
+msgid "Purchase <a href=\"http://codecanyon.net/item/maintenance-wordpress-plugin/2781350?ref=fruitfulcode\" target=\"_blank\">PRO</a> version  with extended functionality. %1$s If you like our plugin please <a target=\"_blank\" href=\"http://wordpress.org/support/view/plugin-reviews/maintenance?filter=5\">rate it</a>, <a title=\"leave feedbacks\" href=\"%2$s\" target=\"_blank\">leave feedbacks</a>."
+msgstr "Купите <a href=\"http://codecanyon.net/item/maintenance-wordpress-plugin/2781350?ref=fruitfulcode\" target=\"_blank\">PRO</a> версию с расширенной функциональностью. %1$s если вам нравится наш плагин, пожалуйста, <a target=\"_blank\" href=\"http://wordpress.org/support/view/plugin-reviews/maintenance?filter=5\">оцените его</a>, <a title=\"оставить отзыв\" href=\"%2$s\" target=\"_blank\">оставьте отзыв</a>."
+
+#: includes/functions.php:157
+msgid "Extended functionality"
+msgstr "Расширенная функциональность"
+
+#: includes/functions.php:146
+msgid "You may find answers to your questions at <a target=\"_blank\" href=\"http://wordpress.org/support/plugin/maintenance\">support forum</a><br>You may  <a target=\"_blank\" href=\"mailto:mail@fruitfulcode.com?subject=Maintenance plugin\">contact us</a> with customization requests and suggestions.<br> Please visit our website to learn about us and our services <a href=\"%1$s\" title=\"%2$s\">%2$s</a>"
+msgstr "Вы можете найти ответы на вопросы <a target=\"_blank\" href=\"http://wordpress.org/support/plugin/maintenance\">на форуме поддержки</a><br>Вы можете  <a target=\"_blank\" href=\"mailto:mail@fruitfulcode.com?subject=Maintenance plugin\">написать нам</a> запросы и предложения.<br> Посетите наш сайт, чтобы узнать о нас и наших сервисах <a href=\"%1$s\" title=\"%2$s\">%2$s</a>"
+
+#: includes/functions.php:145
+msgid "Have any questions?"
+msgstr "Есть вопросы?"
+
+#: includes/functions.php:137
+msgid "Font color"
+msgstr "Цвет шрифта"
+
+#: includes/functions.php:136
+msgid "Background color"
+msgstr "Цвет фона"
+
+#: includes/functions.php:130
+msgid "Upload Background"
+msgstr "Загрузить фон"
+
+#: includes/functions.php:130
+msgid "Background image"
+msgstr "Фоновое изображение"
+
+#: includes/functions.php:123
+msgid "Apply a blur"
+msgstr "Применить размытие"
+
+#: includes/functions.php:123
+msgid "Background blur"
+msgstr "Размытие фона"
+
+#: includes/functions.php:122
+msgid "Blur intensity"
+msgstr "Интенсивность размытия"
+
+#: includes/functions.php:121
+msgid "Service temporarily unavailable"
+msgstr "Сервис временно недоступен"
+
+#: includes/functions.php:121
+msgid "503"
+msgstr "503"
+
+#: includes/functions.php:120
+msgid "Show admin bar"
+msgstr "Показать панель администратора"
+
+#: includes/functions.php:120
+msgid "Admin bar"
+msgstr "Панель администратора"
+
+#: includes/functions.php:117
+msgid "Upload Logo"
+msgstr "Загрузить логотип"
+
+#: includes/functions.php:117
+msgid "Logo"
+msgstr "Логотип"
+
+#: includes/functions.php:116
+msgid "Description"
+msgstr "Описание"
+
+#: includes/functions.php:115
+msgid "Headline"
+msgstr "Заголовок"
+
+#: includes/functions.php:114
+msgid "Page title"
+msgstr "Заголовок страницы"
+
+#: includes/functions.php:106
+msgid "Support"
+msgstr "Поддержка"
+
+#: includes/functions.php:105
+msgid "Pro version"
+msgstr "Pro-версия"
+
+#: includes/functions.php:104
+msgid "General Settings"
+msgstr "Основные настройки"
+
+#: includes/admin.php:84 page-options.php:44
+msgid "Save changes"
+msgstr "Сохранить изменения"

@@ -1,0 +1,187 @@
+# Translation of Plugins - All-in-one Floating Contact Form, Call, Chat, and 50+ Social Icon Tabs  &#8211; My Sticky Elements - Stable (latest release) in Russian
+# This file is distributed under the same license as the Plugins - All-in-one Floating Contact Form, Call, Chat, and 50+ Social Icon Tabs  &#8211; My Sticky Elements - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-07-24 22:32:33+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/4.0.0-alpha.4\n"
+"Language: ru\n"
+"Project-Id-Version: Plugins - All-in-one Floating Contact Form, Call, Chat, and 50+ Social Icon Tabs  &#8211; My Sticky Elements - Stable (latest release)\n"
+
+#. Author of the plugin/theme
+msgid "m.r.d.a"
+msgstr "m.r.d.a"
+
+#. Description of the plugin/theme
+msgid "myStickyElements is simple yet very effective plugin. It is perfect to fill out usually unused side space on webpages with some additional messages, videos, social widgets ..."
+msgstr "myStickyElements простой, но довольно функциональный и эффетивный плагин! Он предназначен для размещения видео, информации, контактных форм, виджетов и так далее в неиспользуемом обычно боковом пространстве ваших интернет-страниц."
+
+#. Plugin URI of the plugin/theme
+msgid "http://wordpress.transformnews.com/plugins/mystickyelements-simple-sticky-side-elements-for-wordpress-504"
+msgstr "http://wordpress.transformnews.com/plugins/mystickyelements-simple-sticky-side-elements-for-wordpress-504"
+
+#. Plugin Name of the plugin/theme
+msgid "myStickyElements"
+msgstr "myStickyElements"
+
+#: mystickyelements.php:2764
+msgid "Element 10 Settings."
+msgstr "Настройки элемента 10."
+
+#: mystickyelements.php:2627
+msgid "Element 9 Settings."
+msgstr "Настройки элемента 9."
+
+#: mystickyelements.php:2489
+msgid "Element 8 Settings."
+msgstr "Настройки элемента 8."
+
+#: mystickyelements.php:2353
+msgid "Element 7 Settings."
+msgstr "Настройки элемента 7."
+
+#: mystickyelements.php:2217
+msgid "Element 6 Settings."
+msgstr "Настройки элемента 6."
+
+#: mystickyelements.php:2079
+msgid "Element 5 Settings."
+msgstr "Настройки элемента 5."
+
+#: mystickyelements.php:1942
+msgid "Element 4 Settings."
+msgstr "Настройки элемента 4."
+
+#: mystickyelements.php:1804
+msgid "Element 3 Settings."
+msgstr "Настройки элемента 3."
+
+#: mystickyelements.php:1664
+msgid "Element 2 Settings."
+msgstr "Настройки элемента 2."
+
+#: mystickyelements.php:1519
+msgid "Element 1 Settings."
+msgstr "Настройки элемента 1."
+
+#: mystickyelements.php:1507
+msgid "Add/Edit css to manage advanced elements style."
+msgstr "Добавить/редактировать CSS для продвинутой настройки элемена"
+
+#: mystickyelements.php:1482 mystickyelements.php:1489
+#: mystickyelements.php:1496
+msgid "hover"
+msgstr "при наведении"
+
+#: mystickyelements.php:1481 mystickyelements.php:1488
+#: mystickyelements.php:1495
+msgid "click"
+msgstr "клик"
+
+#: mystickyelements.php:1459
+msgid "px width, 0 to disable."
+msgstr "ширина в пикселах, 0 - отключено."
+
+#: mystickyelements.php:1459
+msgid "less than "
+msgstr "меньше, чем"
+
+#: mystickyelements.php:1449
+msgid "Add sticky elements to your blog."
+msgstr "Добавить «приклееные» элементы в блог"
+
+#: mystickyelements.php:332 mystickyelements.php:412 mystickyelements.php:491
+#: mystickyelements.php:570 mystickyelements.php:651 mystickyelements.php:733
+#: mystickyelements.php:818 mystickyelements.php:900 mystickyelements.php:982
+#: mystickyelements.php:1064
+msgid "Content"
+msgstr "Содержимое"
+
+#: mystickyelements.php:325 mystickyelements.php:405 mystickyelements.php:484
+#: mystickyelements.php:563 mystickyelements.php:644 mystickyelements.php:726
+#: mystickyelements.php:811 mystickyelements.php:893 mystickyelements.php:975
+#: mystickyelements.php:1057
+msgid "Content Padding"
+msgstr "Внутренний отступ"
+
+#: mystickyelements.php:318 mystickyelements.php:398 mystickyelements.php:477
+#: mystickyelements.php:556 mystickyelements.php:637 mystickyelements.php:719
+#: mystickyelements.php:804 mystickyelements.php:886 mystickyelements.php:968
+#: mystickyelements.php:1050
+msgid "Content Width"
+msgstr "Ширина содержимого"
+
+#: mystickyelements.php:311 mystickyelements.php:391 mystickyelements.php:470
+#: mystickyelements.php:549 mystickyelements.php:630 mystickyelements.php:712
+#: mystickyelements.php:797 mystickyelements.php:879 mystickyelements.php:961
+#: mystickyelements.php:1043
+msgid "Content Text Color"
+msgstr "Цвет текста содержимого"
+
+#: mystickyelements.php:304 mystickyelements.php:384 mystickyelements.php:463
+#: mystickyelements.php:542 mystickyelements.php:623 mystickyelements.php:705
+#: mystickyelements.php:790 mystickyelements.php:872 mystickyelements.php:954
+#: mystickyelements.php:1036
+msgid "Content bg Color"
+msgstr "Цвет фона содержимого"
+
+#: mystickyelements.php:297 mystickyelements.php:377 mystickyelements.php:456
+#: mystickyelements.php:535 mystickyelements.php:616 mystickyelements.php:698
+#: mystickyelements.php:783 mystickyelements.php:865 mystickyelements.php:947
+#: mystickyelements.php:1029
+msgid "Icon bg Image"
+msgstr "иконка фонового изображения"
+
+#: mystickyelements.php:290 mystickyelements.php:370 mystickyelements.php:449
+#: mystickyelements.php:528 mystickyelements.php:609 mystickyelements.php:691
+#: mystickyelements.php:776 mystickyelements.php:858 mystickyelements.php:940
+#: mystickyelements.php:1022
+msgid "Icon bg Color"
+msgstr "иконка цвета фона"
+
+#: mystickyelements.php:283 mystickyelements.php:363 mystickyelements.php:442
+#: mystickyelements.php:521 mystickyelements.php:602 mystickyelements.php:684
+#: mystickyelements.php:769 mystickyelements.php:851 mystickyelements.php:933
+#: mystickyelements.php:1015
+msgid "Vertical Position"
+msgstr "Позиция по вертикали"
+
+#: mystickyelements.php:276 mystickyelements.php:356 mystickyelements.php:435
+#: mystickyelements.php:514 mystickyelements.php:595 mystickyelements.php:677
+#: mystickyelements.php:762 mystickyelements.php:844 mystickyelements.php:926
+#: mystickyelements.php:1008
+msgid "Horizontal Position"
+msgstr "Позиция по горизонтали"
+
+#: mystickyelements.php:269 mystickyelements.php:348 mystickyelements.php:428
+#: mystickyelements.php:507 mystickyelements.php:586 mystickyelements.php:668
+#: mystickyelements.php:753 mystickyelements.php:835 mystickyelements.php:917
+#: mystickyelements.php:999
+msgid "Enable Element"
+msgstr "Элемент включен"
+
+#: mystickyelements.php:251
+msgid "CSS style"
+msgstr "CSS стиль"
+
+#: mystickyelements.php:243
+msgid "Change on Event"
+msgstr "Изменить по событию"
+
+#: mystickyelements.php:227
+msgid "Disable at Small Screen Sizes"
+msgstr "Отключить на маленьких экранах"
+
+#: mystickyelements.php:220 mystickyelements.php:263 mystickyelements.php:342
+#: mystickyelements.php:422 mystickyelements.php:501 mystickyelements.php:580
+#: mystickyelements.php:662 mystickyelements.php:747 mystickyelements.php:829
+#: mystickyelements.php:911 mystickyelements.php:993
+msgid "myStickyElements Options"
+msgstr "myStickyElements - Параметры"
+
+#: mystickyelements.php:64
+msgid "myStickylements Settings"
+msgstr "myStickyElements - Настройки"

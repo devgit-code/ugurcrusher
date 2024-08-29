@@ -1,0 +1,687 @@
+# Copyright (C) 2024 Saturday Drive
+# This file is distributed under the same license as the Ninja Forms - File Uploads package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Ninja Forms - File Uploads 3.0-versionNumberPlaceholder\n"
+"Report-Msgid-Bugs-To: "
+"https://wordpress.org/support/plugin/ninja-forms-uploads\n"
+"POT-Creation-Date: 2024-05-31 00:20:45+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2024-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Ninja Forms <help@ninjaforms.com>\n"
+"Language-Team: English <LL@li.org>\n"
+"Language: en\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Country: United States\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: "
+"__;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;_nx_noop:1,2,3c;esc_"
+"attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;esc_html_x:1,2c;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-Bookmarks: \n"
+"X-Textdomain-Support: yes\n"
+"X-Generator: grunt-wp-i18n 1.0.3\n"
+
+#: includes/Common/Routes/DebugLog.php:73
+msgid "Request made to delete all plugin log entries"
+msgstr ""
+
+#: includes/WPOAuth2/AdminHandler.php:185
+msgid "An unknown error occurred."
+msgstr ""
+
+#: includes/WPOAuth2/AdminHandler.php:187
+msgid "Connection Error"
+msgstr ""
+
+#: includes/WPOAuth2/AdminHandler.php:193
+msgid "You have successfully connected with your %s account."
+msgstr ""
+
+#: includes/WPOAuth2/AdminHandler.php:195
+msgid "Connected"
+msgstr ""
+
+#: includes/WPOAuth2/AdminHandler.php:201
+msgid "You have successfully disconnected your %s account."
+msgstr ""
+
+#: includes/WPOAuth2/AdminHandler.php:203
+msgid "Disconnected"
+msgstr ""
+
+#: includes/admin/controllers/custompaths.php:18
+msgid "Puts in the title of the file without any spaces"
+msgstr ""
+
+#: includes/admin/controllers/custompaths.php:19
+msgid "Puts in the title of the current form without any spaces"
+msgstr ""
+
+#: includes/admin/controllers/custompaths.php:20
+msgid "Puts in the date in yyyy-mm-dd (1998-05-23) format"
+msgstr ""
+
+#: includes/admin/controllers/custompaths.php:21
+msgid "Puts in the month in mm (04) format"
+msgstr ""
+
+#: includes/admin/controllers/custompaths.php:22
+msgid "Puts in the day in dd (20) format"
+msgstr ""
+
+#: includes/admin/controllers/custompaths.php:23
+msgid "Puts in the year in yyyy (2011) format"
+msgstr ""
+
+#: includes/admin/controllers/custompaths.php:24
+msgid "Puts in the user's username if they are logged in"
+msgstr ""
+
+#: includes/admin/controllers/custompaths.php:25
+msgid "Puts in the user's user ID if they are logged in"
+msgstr ""
+
+#: includes/admin/controllers/custompaths.php:26
+msgid "Puts in the user's display name if they are logged in"
+msgstr ""
+
+#: includes/admin/controllers/custompaths.php:27
+msgid "Puts in the user's first name if they are logged in"
+msgstr ""
+
+#: includes/admin/controllers/custompaths.php:28
+msgid "Puts in the user's last name if they are logged in"
+msgstr ""
+
+#: includes/admin/controllers/custompaths.php:29
+msgid "Puts in a random 5 character string"
+msgstr ""
+
+#: includes/admin/menus/uploads.php:16
+#: includes/integrations/ninjaforms/fileuploadmergetags.php:15
+#: includes/templates/admin-menu-uploads.php:3
+msgid "File Uploads"
+msgstr ""
+
+#: includes/admin/menus/uploads.php:71
+msgid "Browse Uploads"
+msgstr ""
+
+#: includes/admin/menus/uploads.php:72
+#: includes/templates/admin-menu-uploads-settings.php:16
+msgid "Upload Settings"
+msgstr ""
+
+#: includes/admin/menus/uploads.php:112
+msgid "Save"
+msgstr ""
+
+#: includes/admin/uploadstable.php:15
+msgid "Upload"
+msgstr ""
+
+#: includes/admin/uploadstable.php:17
+msgid "Uploads"
+msgstr ""
+
+#: includes/admin/uploadstable.php:25
+msgid "No uploads found."
+msgstr ""
+
+#: includes/admin/uploadstable.php:69
+msgid "File Name"
+msgstr ""
+
+#: includes/admin/uploadstable.php:70
+msgid "Original File name"
+msgstr ""
+
+#: includes/admin/uploadstable.php:71
+msgid "Created"
+msgstr ""
+
+#: includes/admin/uploadstable.php:72
+msgid "Form Name"
+msgstr ""
+
+#: includes/admin/uploadstable.php:73
+msgid "User Name"
+msgstr ""
+
+#: includes/admin/uploadstable.php:74
+msgid "File Location"
+msgstr ""
+
+#: includes/admin/uploadstable.php:165
+msgid "Guest"
+msgstr ""
+
+#: includes/admin/uploadstable.php:213
+msgid "View this file"
+msgstr ""
+
+#: includes/admin/uploadstable.php:213 includes/fields/upload.php:287
+msgid "View"
+msgstr ""
+
+#: includes/admin/uploadstable.php:218
+msgid "View submission"
+msgstr ""
+
+#: includes/admin/uploadstable.php:218
+msgid "View Submission"
+msgstr ""
+
+#: includes/admin/uploadstable.php:226
+msgid "Delete this file"
+msgstr ""
+
+#: includes/admin/uploadstable.php:226 includes/admin/uploadstable.php:280
+#: includes/display/render.php:76
+msgid "Delete"
+msgstr ""
+
+#: includes/admin/uploadstable.php:364
+msgid "%s upload deleted"
+msgid_plural "%s uploads deleted"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/admin/uploadstable.php:371
+msgid "There was a problem deleting the upload"
+msgid_plural "There was a problem deleting the uploads"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/ajax/controllers/uploads.php:122
+msgid "No field ID supplied"
+msgstr ""
+
+#: includes/ajax/controllers/uploads.php:128
+msgid "Nonce error"
+msgstr ""
+
+#: includes/ajax/controllers/uploads.php:135
+msgid "No form ID supplied"
+msgstr ""
+
+#: includes/ajax/controllers/uploads.php:285
+msgid "Unable to move uploaded temp file"
+msgstr ""
+
+#: includes/ajax/controllers/uploads.php:320
+msgid "File exceeds maximum file size. File must be under: %sMB."
+msgstr ""
+
+#: includes/ajax/controllers/uploads.php:340
+msgid "File size under minimum size. File must be %sMB or greater."
+msgstr ""
+
+#: includes/ajax/controllers/uploads.php:357 includes/fields/upload.php:103
+#: includes/fields/upload.php:109 includes/fields/upload.php:169
+#: includes/fields/upload.php:175
+msgid "File extension not allowed"
+msgstr ""
+
+#: includes/ajax/controllers/uploads.php:374
+#: includes/ajax/controllers/uploads.php:534
+msgid "File extension of %s not allowed"
+msgstr ""
+
+#: includes/ajax/controllers/uploads.php:571
+msgid "The uploaded file exceeds the upload_max_filesize directive in php.ini"
+msgstr ""
+
+#: includes/ajax/controllers/uploads.php:574
+msgid ""
+"The uploaded file exceeds the MAX_FILE_SIZE directive that was specified in "
+"the HTML form"
+msgstr ""
+
+#: includes/ajax/controllers/uploads.php:577
+msgid "The uploaded file was only partially uploaded"
+msgstr ""
+
+#: includes/ajax/controllers/uploads.php:580
+msgid "No file was uploaded"
+msgstr ""
+
+#: includes/ajax/controllers/uploads.php:583
+msgid "Missing a temporary folder"
+msgstr ""
+
+#: includes/ajax/controllers/uploads.php:586
+msgid "Failed to write file to disk"
+msgstr ""
+
+#: includes/ajax/controllers/uploads.php:589
+msgid "File upload stopped by extension"
+msgstr ""
+
+#: includes/ajax/controllers/uploads.php:593
+msgid "Unknown upload error"
+msgstr ""
+
+#: includes/config/field-settings.php:10
+msgid "Save to Server"
+msgstr ""
+
+#: includes/config/field-settings.php:13
+msgid "Save the file to the server."
+msgstr ""
+
+#: includes/config/field-settings.php:19
+msgid "Rename Uploaded File"
+msgstr ""
+
+#: includes/config/field-settings.php:22
+msgid ""
+"Advanced renaming options. You can also create directories using \"/\". If "
+"you do not want to rename the files, leave this box blank"
+msgstr ""
+
+#: includes/config/field-settings.php:29
+msgid "Save to Media Library"
+msgstr ""
+
+#: includes/config/field-settings.php:32
+msgid "Save to Media Library."
+msgstr ""
+
+#: includes/config/field-settings.php:40
+msgid "File Limit"
+msgstr ""
+
+#: includes/config/field-settings.php:44
+msgid "How many files can be uploaded?"
+msgstr ""
+
+#: includes/config/field-settings.php:49
+msgid "Allowed File Types"
+msgstr ""
+
+#: includes/config/field-settings.php:50
+msgid ""
+"Comma Separated List of allowed file types. Leaving the option empty will "
+"restore the default list. (i.e. jpg, gif, png, pdf) This is not fool-proof "
+"and can be tricked, please remember that there is always a danger in "
+"allowing users to upload files."
+msgstr ""
+
+#: includes/config/field-settings.php:57
+msgid "Maximum File Size (MB)"
+msgstr ""
+
+#: includes/config/field-settings.php:61
+msgid "Maximum size of a file that can be uploaded."
+msgstr ""
+
+#: includes/config/field-settings.php:66
+msgid "Minimum File Size (MB)"
+msgstr ""
+
+#: includes/config/field-settings.php:70
+msgid "Minimum size of a file that can be uploaded."
+msgstr ""
+
+#: includes/config/field-settings.php:75 includes/fields/upload.php:329
+msgid "Select Files"
+msgstr ""
+
+#: includes/config/field-settings.php:76
+msgid "Select Files Button Text"
+msgstr ""
+
+#: includes/config/field-settings.php:79
+msgid "Change the button text for selecting files."
+msgstr ""
+
+#: includes/config/field-settings.php:84 includes/fields/upload.php:330
+msgid "Cancel"
+msgstr ""
+
+#: includes/config/field-settings.php:85
+msgid "Cancel File Upload Button Text"
+msgstr ""
+
+#: includes/config/field-settings.php:88
+msgid "Change the button text for cancelling uploads."
+msgstr ""
+
+#: includes/config/layout-styles.php:5
+msgid "Progress Bar"
+msgstr ""
+
+#: includes/config/layout-styles.php:14
+msgid "Progress Bar Background"
+msgstr ""
+
+#: includes/config/layout-styles.php:23
+msgid "File List"
+msgstr ""
+
+#: includes/config/layout-styles.php:32
+msgid "File Delete Link"
+msgstr ""
+
+#: includes/config/layout-styles.php:41
+msgid "File Upload Cancel Button"
+msgstr ""
+
+#: includes/config/layout-styles.php:50
+msgid "File Upload Cancel Button Hover"
+msgstr ""
+
+#: includes/config/settings-external.php:9
+msgid "Use Public URL"
+msgstr ""
+
+#: includes/config/settings-external.php:10
+msgid ""
+"URLs to files uploaded to external services are by default only accessible "
+"to logged in users of the site. Enable this to make them publicly viewable."
+msgstr ""
+
+#: includes/config/settings-upload.php:9
+msgid "If you want to create dynamic directories, you can use various shortcodes:"
+msgstr ""
+
+#: includes/config/settings-upload.php:16
+msgid ""
+"For Example: <code>/%formtitle%/%month%/%year%/</code> would be "
+"<code>/MyFormTitle/04/2012/</code>"
+msgstr ""
+
+#: includes/config/settings-upload.php:25
+msgid "Max File Size (in MB)"
+msgstr ""
+
+#: includes/config/settings-upload.php:26
+msgid ""
+"This limit can be overridden in the settings for a File Upload field. Very "
+"large uploads are possible, but we recommend setting a sensible limit."
+msgstr ""
+
+#: includes/config/settings-upload.php:33
+msgid "File upload error message"
+msgstr ""
+
+#: includes/config/settings-upload.php:40
+msgid "Custom Directory"
+msgstr ""
+
+#: includes/config/settings-upload.php:47
+msgid "Full Directory"
+msgstr ""
+
+#: includes/config/settings-upload.php:59
+msgid "Turn on Debug Logger"
+msgstr ""
+
+#: includes/config/settings-upload.php:65
+msgid "Logger Commands"
+msgstr ""
+
+#: includes/config/settings-upload.php:66
+msgid "Clear debug log"
+msgstr ""
+
+#: includes/config/settings-upload.php:66
+msgid "Download debug log"
+msgstr ""
+
+#: includes/config/styles-field-settings.php:6
+msgid "Progress Bar Styles"
+msgstr ""
+
+#: includes/config/styles-field-settings.php:14
+msgid "Progress Bar Background Styles"
+msgstr ""
+
+#: includes/config/styles-field-settings.php:22
+msgid "Uploaded Files List Styles"
+msgstr ""
+
+#: includes/config/styles-field-settings.php:29
+msgid "Uploaded File Delete Link Styles"
+msgstr ""
+
+#: includes/display/render.php:70
+msgid "Max %n files are allowed"
+msgstr ""
+
+#: includes/display/render.php:71
+msgid "Nonce error, upload failed"
+msgstr ""
+
+#: includes/display/render.php:72
+msgid "Nonce regeneration error, upload failed"
+msgstr ""
+
+#: includes/display/render.php:73
+msgid "Upload error, upload failed"
+msgstr ""
+
+#: includes/display/render.php:74
+msgid "File exceeds maximum file size. File must be under %nMB."
+msgstr ""
+
+#: includes/display/render.php:75
+msgid "File does not meet minimum file size. File must be %nMB or greater in size."
+msgstr ""
+
+#: includes/external/abstracts/backgroundupload.php:79
+msgid "Ninja Forms File Upload: %s Upload. File does not exist %s"
+msgstr ""
+
+#: includes/external/abstracts/oauthservice.php:73
+msgid "Disconnect"
+msgstr ""
+
+#: includes/external/abstracts/oauthservice.php:78
+msgid "Connect"
+msgstr ""
+
+#: includes/external/action.php:36
+msgid "External File Upload"
+msgstr ""
+
+#: includes/external/action.php:66
+#: includes/integrations/ninjaforms/attachments.php:44
+msgid "Field"
+msgstr ""
+
+#: includes/external/action.php:78
+msgid "Background Upload"
+msgstr ""
+
+#: includes/external/loader.php:232
+#: includes/templates/admin-menu-uploads-external.php:19
+msgid "External Settings"
+msgstr ""
+
+#: includes/external/loader.php:273
+msgid "%s requires %s"
+msgstr ""
+
+#: includes/external/loader.php:288
+msgid "%s Settings"
+msgstr ""
+
+#: includes/external/services/dropbox/config.php:6
+msgid "Connect to Dropbox"
+msgstr ""
+
+#: includes/external/services/dropbox/config.php:13
+#: includes/external/services/googledrive/config.php:13
+#: includes/external/services/s3/config.php:26
+msgid "File Path"
+msgstr ""
+
+#: includes/external/services/dropbox/config.php:14
+msgid ""
+"Custom directory for the files to be uploaded to in your Dropbox "
+"/Apps/Ninja Forms Uploads/ folder"
+msgstr ""
+
+#: includes/external/services/dropbox/service.php:147
+msgid "log out"
+msgstr ""
+
+#: includes/external/services/dropbox/service.php:148
+msgid "To connect with a different account, first %s of Dropbox"
+msgstr ""
+
+#: includes/external/services/googledrive/config.php:6
+msgid "Connect to Google Drive"
+msgstr ""
+
+#: includes/external/services/googledrive/config.php:14
+msgid "Custom directory for the files to be uploaded to in Google Drive"
+msgstr ""
+
+#: includes/external/services/s3/config.php:8
+msgid "Access Key"
+msgstr ""
+
+#: includes/external/services/s3/config.php:14
+msgid "Secret Key"
+msgstr ""
+
+#: includes/external/services/s3/config.php:20
+msgid "Bucket Name"
+msgstr ""
+
+#: includes/external/services/s3/config.php:27
+msgid "The default file path in the bucket where the file will be uploaded to."
+msgstr ""
+
+#: includes/external/services/s3/service.php:180
+msgid "There was an error attempting to get the region of the bucket %s: %s"
+msgstr ""
+
+#: includes/fields/upload.php:89
+msgid "Temp file does not exist"
+msgstr ""
+
+#: includes/fields/upload.php:186
+msgid "File upload error"
+msgstr ""
+
+#: includes/fields/upload.php:279
+#: includes/integrations/ninjaforms/submissions.php:71
+msgid "File removed"
+msgstr ""
+
+#: includes/file-uploads.php:244
+msgid "Ninja Forms File Uploads Debug Logger"
+msgstr ""
+
+#: includes/file-uploads.php:245
+msgid ""
+"%sThe debug logger records data to help solve issues, but should be turned "
+"off as soon as you capture enough information.%s"
+msgstr ""
+
+#: includes/integrations/ninjaforms/attachments.php:36
+msgid "Attach File Uploads"
+msgstr ""
+
+#: includes/integrations/ninjaforms/fileuploadmergetags.php:21
+msgid "Filename"
+msgstr ""
+
+#: includes/integrations/ninjaforms/fileuploadmergetags.php:27
+msgid "File Extension"
+msgstr ""
+
+#: includes/integrations/ninjaforms/mergetags.php:301
+msgid "Date in yyyy-mm-dd format"
+msgstr ""
+
+#: includes/integrations/ninjaforms/mergetags.php:307
+msgid "Year in yyyy format"
+msgstr ""
+
+#: includes/integrations/ninjaforms/mergetags.php:313
+msgid "Month in mm format"
+msgstr ""
+
+#: includes/integrations/ninjaforms/mergetags.php:319
+msgid "Day in dd format"
+msgstr ""
+
+#: includes/integrations/ninjaforms/mergetags.php:325
+msgid "Random 5 character string"
+msgstr ""
+
+#: includes/integrations/ninjaforms/templates.php:26
+msgid "File Upload"
+msgstr ""
+
+#: includes/integrations/ninjaforms/templates.php:27
+msgid ""
+"Allow users to upload files using a form. You can add and remove fields as "
+"needed."
+msgstr ""
+
+#: includes/integrations/postcreation/postcreation.php:17
+msgid "Featured Image"
+msgstr ""
+
+#: includes/integrations/postcreation/postcreation.php:26
+msgid "Single file upload fields only"
+msgstr ""
+
+#: includes/templates/admin-menu-uploads-browse.php:11
+msgid "Search Uploads"
+msgstr ""
+
+#: includes/templates/admin-menu-uploads-external.php:5
+#: includes/templates/admin-menu-uploads-settings.php:5
+msgid "Fix it."
+msgstr ""
+
+#: includes/templates/admin-menu-uploads-external.php:31
+msgid "PHP %s or greater required for external uploads."
+msgstr ""
+
+#: includes/templates/admin-menu-uploads-filter.php:2
+msgid "- Select a form"
+msgstr ""
+
+#: includes/templates/admin-menu-uploads-filter.php:12
+msgid "Begin Date"
+msgstr ""
+
+#: includes/templates/admin-menu-uploads-filter.php:14
+msgid "End Date"
+msgstr ""
+
+#: includes/templates/admin-menu-uploads-filter.php:15
+msgid "Filter"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Ninja Forms - File Uploads"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://ninjaforms.com/extensions/file-uploads/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "File Uploads add-on for Ninja Forms."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Saturday Drive"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://ninjaforms.com"
+msgstr ""

@@ -1,0 +1,26 @@
+# WordPress core files
+/wp-admin/
+/wp-includes/
+
+# WordPress configuration
+/wp-config.php
+
+# WordPress content
+wp-content/uploads/
+wp-content/cache/
+wp-content/backups/
+wp-content/backup-db/
+
+# Plugin and theme specific logs
+wp-content/plugins/*/logs/
+wp-content/themes/*/logs/
+
+# Local development files
+.DS_Store
+.idea/
+*.log
+*.sql
+*.tar.gz
+
+# Environment configuration files
+.env
